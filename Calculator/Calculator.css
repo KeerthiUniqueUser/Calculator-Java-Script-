@@ -1,0 +1,29 @@
+ body
+      {
+        background-color:aliceblue ;
+      }
+      .symb
+      {
+        background-color:orange;
+        border-radius: 50px;
+        text-align: center;
+        border:none;
+        vertical-align: auto;
+        width:40px;
+        height:40px;
+        color:white;
+        margin:2px;
+        
+      }
+      button
+      {
+        background-color:rgb(71, 69, 66);
+        border-radius: 50px;
+        text-align: center;
+        border:none;
+        vertical-align: auto;
+        width:40px;
+        height:40px;
+        color:white;
+        margin:2px;
+      }
